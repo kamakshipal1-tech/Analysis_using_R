@@ -1,0 +1,44 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# RStudio files
+.Rproj.user/
+.Rhistory
+.Rapp.history
+.RData
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Cache and compiled objects
+*.o
+*.so
+*.dll
+*.rds
+*.rda
+*.RData
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Folder-specific caches
+__pycache__/
+.Rcache/
+.cache/
+.Rproj.user/
+
+# Plots cache (optional)
+# Uncomment if you ONLY want to ignore auto-generated plots, NOT manual ones
+# Rplot*.png
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
